@@ -21,41 +21,24 @@ I specialize in **backend development, cloud infrastructure, and data analysis**
 ---
 
 ### 🔹 Featured Projects  
-🚀 **[Inception](https://github.com/yourusername/inception)**  
-_Containerized a full DevOps environment with Docker & Kubernetes._  
+🚀 **[Inception](https://github.com/karagoz36/Inception)**  
+_Containerized a full DevOps environment with Docker._  
 🔹 Technologies: Docker, Docker Compose, Prometheus, Grafana, MySQL, Redis  
 
-🎮 **[Transcendence](https://github.com/yourusername/transcendence)**  
+🎮 **[Transcendence](https://github.com/karagoz36/transcendence)**  
 _Developed a real-time multiplayer game with Django and PostgreSQL._  
-🔹 Technologies: Django, JavaScript, FastAPI, PostgreSQL  
+🔹 Technologies: Django, JavaScript, Python, PostgreSQL, Docker, Prometheus, Grafana, Redis  
 
-🤖 **[PostureAI](https://github.com/yourusername/postureai)**  
+🤖 **[Hackaton Doctolib](https://github.com/karagoz36/Hackathon_Doctolib)**  
 _AI-powered posture correction tool using MediaPipe & FastAPI._  
 🔹 Technologies: Python, FastAPI, AI Vision, React  
 
 ---
 
 ### 🔹 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=karagoz36&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karagoz36&layout=compact&theme=radical)
 
 📫 **How to reach me:**  
-🔹 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername) | ✉ tahakaraz@gmail.com
+🔹 [LinkedIn](https://www.linkedin.com/in/taha-karagoz-669243192/) | 
 
-
-## Hi there 👋
-
-<!--
-**karagoz36/karagoz36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
