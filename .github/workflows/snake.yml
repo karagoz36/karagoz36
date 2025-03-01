@@ -17,7 +17,7 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@master
         with:
-          github_user_name: "TahaKaragoz"  # Burayı kendi GitHub kullanıcı adınla değiştir
+          github_user_name: "karagoz36"
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
