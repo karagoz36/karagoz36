@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake animation
+        uses: Platane/snk@master
+        with:
+          github_user_name: "TahaKaragoz"  # Burayı kendi GitHub kullanıcı adınla değiştir
+          outputs: |
+            github-contribution-grid-snake.svg
+            github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push Snake Animation to the Repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "🐍 Updating Snake Animation"
+          branch: output
