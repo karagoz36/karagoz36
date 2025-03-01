@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır
+    - cron: "0 0 * * *"
   push:
     branches:
       - main
@@ -18,12 +18,11 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: "karagoz36"
-          outputs: |
-            github-contribution-grid-snake.svg
-            github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push Snake Animation to the Repository
         uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           commit_message: "🐍 Updating Snake Animation"
           branch: output
