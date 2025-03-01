@@ -40,3 +40,6 @@ _AI-powered posture correction tool using MediaPipe & FastAPI._
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karagoz36&layout=compact&theme=radical)
 
 ---
+### 🐍 GitHub Activity Snake  
+![GitHub Snake animation](https://github.com/karagoz36z/karagoz36/blob/output/github-contribution-grid-snake.svg)
+
