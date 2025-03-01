@@ -8,7 +8,7 @@
 - 🤖 **PhD in Logic & AI** | Sorbonne Université  
 - 🏆 3rd place in **AI Action Summit Hackathon** (2025)  
 
-I specialize in **backend development, cloud infrastructure, and data analysis**, leveraging technologies like **C++, Python, PostgreSQL, Docker, and Kubernetes**.  
+I specialize in **backend development, cloud infrastructure, and data analysis**, leveraging technologies like **C, C++, Python, PostgreSQL, Docker, and AWS Cloud Services**.  
 
 ### 🔹 Tech Stack
 | **Programming**  | C, C++, Python, JavaScript |
