@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"  # Her gün gece 00:00'da çalışır
   push:
     branches:
       - main
@@ -19,10 +19,15 @@ jobs:
         with:
           github_user_name: "karagoz36"
 
-      - name: Push Snake Animation to the Repository
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Commit and Push Snake Animation to Output Branch
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git checkout -B output
+          mv dist/github-contribution-grid-snake.svg .
+          mv dist/github-contribution-grid-snake-dark.svg .
+          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git commit -m "🐍 Updating Snake Animation"
+          git push origin output --force
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: "🐍 Updating Snake Animation"
-          branch: output
