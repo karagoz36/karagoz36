@@ -41,5 +41,5 @@ _AI-powered posture correction tool using MediaPipe & FastAPI._
 
 ---
 ### 🐍 GitHub Activity Snake  
-![GitHub Snake animation](https://github.com/karagoz36z/karagoz36/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake animation](https://github.com/karagoz36/karagoz36/blob/output/github-contribution-grid-snake.svg)
 
