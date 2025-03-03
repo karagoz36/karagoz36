@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taha Karagoz!
 
-💻 Software Engineering Intern | AI & Data Science Enthusiast  
+💻 Junior Software Engineer | AI & Data Science  
 📍 Paris | Passionate about Backend, DevOps, and AI-powered solutions  
 
 ### 🔹 About Me
