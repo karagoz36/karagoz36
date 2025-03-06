@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Taha Karagoz!
 
-💻 Junior Software Engineer | AI & Data Science  
-📍 Paris | Passionate about Backend, DevOps, and AI-powered solutions  
+💻 Junior Software Engineer | Paris
 
 ### 🔹 About Me
 - 🎓 **Software Engineering** | École 42 Paris  
@@ -16,7 +15,7 @@ I specialize in **backend development, cloud infrastructure, and data analysis**
 | **Backend**      | Django, FastAPI, Node.js |
 | **Databases**    | PostgreSQL, MySQL, Redis |
 | **DevOps**       | Docker, Kubernetes, AWS, Prometheus, Grafana |
-| **Data Science** | Pandas, NumPy, AI & ML  |
+| **Data Science** | Pandas, NumPy|
 
 ---
 
@@ -35,6 +34,16 @@ _AI-powered posture correction tool using MediaPipe & FastAPI._
 
 ---
 
+### 🔹 On-Process Projects
+💻 **[Bootcamp Python for Datascience](https://github.com/karagoz36/Python_Data_Science)**  
+_Developing Python skills in data science, NumPy, image processing, and OOP._  
+🔹 Technologies: Python, NumPy, Pandas, Matplotlib, OOP, Data Structures 
+
+🌐 **[IoT - Inception of Things](https://github.com/karagoz36/IoT)**  
+_Exploring Kubernetes with K3s, K3d, Vagrant, and Argo CD._  
+🔹 Technologies: Kubernetes, K3s, K3d, Vagrant, Docker, Argo CD, CI/CD, Ingress Controller
+
+---
 ### 🔹 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karagoz36&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karagoz36&layout=compact&theme=radical)
