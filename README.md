@@ -3,11 +3,11 @@
 💻 Junior Software Engineer | Paris
 
 ### 🔹 About Me
-- 🎓 **Software Engineering** | École 42 Paris  
-- 🤖 **PhD in Logic & AI** | Sorbonne Université  
+- 🎓 **Software Engineering | DevOps** | École 42 Paris  
+- 🤖 **PhD in Logic** | Sorbonne Université  
 - 🏆 3rd place in **AI Action Summit Hackathon** (2025)  
 
-I specialize in **backend development, cloud infrastructure, and data analysis**, leveraging technologies like **C, C++, Python, PostgreSQL, Docker, and AWS Cloud Services**.  
+I specialize in **backend development, cloud infrastructure, and DevOps**, leveraging technologies like **C, C++, Python, PostgreSQL, Docker, Kubernetes and AWS Cloud Services**.  
 
 ### 🔹 Tech Stack
 | **Programming**  | C, C++, Python, JavaScript |
@@ -15,7 +15,7 @@ I specialize in **backend development, cloud infrastructure, and data analysis**
 | **Backend**      | Django, FastAPI, Node.js |
 | **Databases**    | PostgreSQL, MySQL, Redis |
 | **DevOps**       | Docker, Kubernetes, AWS, Prometheus, Grafana |
-| **Data Science** | Pandas, NumPy|
+| **Data Process** | Pandas, NumPy|
 
 ---
 
