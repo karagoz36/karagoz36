@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taha Karagoz!
 
-💻 Junior Software Engineer | Paris
+💻 Software Engineer | Paris
 
 ### 🔹 About Me
 - 🎓 **Software Engineer | DevOps** | École 42 Paris  
