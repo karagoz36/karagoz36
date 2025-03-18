@@ -3,7 +3,7 @@
 💻 Junior Software Engineer | Paris
 
 ### 🔹 About Me
-- 🎓 **Software Engineering | DevOps** | École 42 Paris  
+- 🎓 **Software Engineer | DevOps** | École 42 Paris  
 - 🤖 **PhD in Logic** | Sorbonne Université  
 - 🏆 3rd place in **AI Action Summit Hackathon** (2025)  
 
