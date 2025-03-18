@@ -15,7 +15,7 @@ I specialize in **backend development, cloud infrastructure, and DevOps**, lever
 | **Backend**      | Django, FastAPI, Node.js |
 | **Databases**    | PostgreSQL, MySQL, Redis |
 | **DevOps**       | Docker, Kubernetes, AWS, Prometheus, Grafana |
-| **Data Process** | Pandas, NumPy|
+| **Data Process** | Pandas, NumPy, Matplotlib|
 
 ---
 
