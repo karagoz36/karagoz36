@@ -32,17 +32,15 @@ _Developed a real-time multiplayer game with Django and PostgreSQL._
 _AI-powered posture correction tool using MediaPipe & FastAPI._  
 🔹 Technologies: Python, FastAPI, AI Vision, React  
 
+🌐 **[IoT - Inception of Things](https://github.com/karagoz36/IoT)**  
+_Exploring Kubernetes with K3s, K3d, Vagrant, and Argo CD._  
+🔹 Technologies: Kubernetes, K3s, K3d, Vagrant, Docker, Argo CD, CI/CD, Ingress Controller
 ---
 
 ### 🔹 On-Process Projects
 💻 **[Bootcamp Python for Datascience](https://github.com/karagoz36/Python_Data_Science)**  
 _Developing Python skills in data science, NumPy, image processing, and OOP._  
 🔹 Technologies: Python, NumPy, Pandas, Matplotlib, OOP, Data Structures 
-
-🌐 **[IoT - Inception of Things](https://github.com/karagoz36/IoT)**  
-_Exploring Kubernetes with K3s, K3d, Vagrant, and Argo CD._  
-🔹 Technologies: Kubernetes, K3s, K3d, Vagrant, Docker, Argo CD, CI/CD, Ingress Controller
-
 ---
 ### 🔹 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=karagoz36&show_icons=true&theme=radical)  
