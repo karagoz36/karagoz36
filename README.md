@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Taha Karagoz!
 
-💻 Software Engineer | Paris
+💻 DevOps & Cloud Engineer | Paris
 
 ### 🔹 About Me
-- 🎓 **Software Engineer | DevOps** | École 42 Paris  
+- 🎓 **DevOps & Cloud Engineer | AWS** | Devoteam | École 42 Paris  
 - 🤖 **PhD in Logic** | Sorbonne Université  
 - 🏆 3rd place in **AI Action Summit Hackathon** (2025)  
 
