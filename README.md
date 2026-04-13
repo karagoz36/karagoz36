@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Taha Karagoz!
 
-💻 DevOps & Cloud Engineer | Paris
+💻 Platform Engineer | Paris
 
 ### 🔹 About Me
 - 🎓 **DevOps & Cloud Engineer | AWS** | Devoteam | École 42 Paris  
